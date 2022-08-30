@@ -24,7 +24,7 @@ const studentSchema = new Schema(
     minlength: 9
   },
   skills: {
-    type: [String],
+    type: String,
     required: true
   }
 }, 
