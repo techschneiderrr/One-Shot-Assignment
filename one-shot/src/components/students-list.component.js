@@ -7,7 +7,7 @@ import Table from 'react-bootstrap/Table';
 const Student = props => (
   
   <tr>
-    <td><Link to={`/students?id=${props.student._id}`} style={{ textDecoration: 'none', color:'white'}}>
+    <td><Link to={`/students/${props.student._id}`} style={{ textDecoration: 'none', color:'white'}}>
     {props.student.name}</Link>
     </td>
     
@@ -19,11 +19,13 @@ const Student = props => (
 )
 
 export default class StudentList extends Component {
+
   constructor(props) {
     super(props);
     //this.deleteStudent = this.deleteStudent.bind(this);
     this.state = {students: []};
     this.viewStudents = [];
+    this.txt="";
   }
 
   componentDidMount() {
@@ -44,9 +46,11 @@ export default class StudentList extends Component {
       students: this.state.students.filter(el => el._id !== id)
     })
   }
+  
 
   students() {
     const urlParams = new URLSearchParams(window.location.search);
+    this.txt = urlParams.get("college");
     this.viewStudents = this.state.students.filter(student => student.college === urlParams.get("college")).map(currentstudent => {
       return <Student student={currentstudent} deleteStudent={this.deleteStudent} key={currentstudent._id}/>;
     });

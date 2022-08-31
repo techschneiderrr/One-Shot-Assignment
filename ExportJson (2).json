@@ -1,0 +1,903 @@
+{ 
+"objects":[ 
+{ 
+"name":"Oregon State University",
+"founded":"  1935",
+"city":"Jersey City",
+"state":"Alaska",
+"country":"Bangladesh",
+"no_of_students":"6435",
+"courses":"Mathematics"
+},
+{ 
+"name":"Wake Forest University",
+"founded":" 1981",
+"city":"Lyon",
+"state":"Virginia",
+"country":"Swaziland",
+"no_of_students":"4717",
+"courses":"LOGIC"
+},
+{ 
+"name":"Northwestern University",
+"founded":" 1934",
+"city":"San Francisco",
+"state":"Kansas",
+"country":"Brunei",
+"no_of_students":"9354",
+"courses":"Accounting"
+},
+{ 
+"name":"Boston College",
+"founded":" 1972",
+"city":"Indianapolis",
+"state":"Missouri",
+"country":"Kenya",
+"no_of_students":"4302",
+"courses":"German"
+},
+{ 
+"name":"The University of Arizona",
+"founded":" 1941",
+"city":"Arlington",
+"state":"Rhode Island",
+"country":"Kiribati",
+"no_of_students":"6068",
+"courses":"History"
+},
+{ 
+"name":"The Katz School at Yeshiva University",
+"founded":"  1934",
+"city":"Zurich",
+"state":"Michigan",
+"country":"Sweden",
+"no_of_students":"4763",
+"courses":"Accounting"
+},
+{ 
+"name":"The New School",
+"founded":" 1938",
+"city":"Worcester",
+"state":"Oregon",
+"country":"Macedonia",
+"no_of_students":"6311",
+"courses":"Instrumental Music"
+},
+{ 
+"name":"New York University",
+"founded":" 1959",
+"city":"Washington",
+"state":"Montana",
+"country":"Uruguay",
+"no_of_students":"9388",
+"courses":"Design and technology"
+},
+{ 
+"name":"Rensselaer Polytechnic University",
+"founded":" 1948",
+"city":"Wien",
+"state":"Maryland",
+"country":"Mexico",
+"no_of_students":"9172",
+"courses":"Physical Education"
+},
+{ 
+"name":"Clark University",
+"founded":" 1938",
+"city":"Phoenix",
+"state":"Michigan",
+"country":"Uganda",
+"no_of_students":"8742",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"The Ohio State University",
+"founded":" 2002",
+"city":"Venice",
+"state":"Arizona",
+"country":"Grenada",
+"no_of_students":"9379",
+"courses":"Economics"
+},
+{ 
+"name":"University of Delaware",
+"founded":" 2002",
+"city":"Jacksonville",
+"state":"Alaska",
+"country":"The Gambia",
+"no_of_students":"6137",
+"courses":"American Literature"
+},
+{ 
+"name":"Rutgers University - New Brunswick",
+"founded":" 1950",
+"city":"Cincinnati",
+"state":"Kentucky",
+"country":"Comoros",
+"no_of_students":"9156",
+"courses":"English IV"
+},
+{ 
+"name":"Texas A&M University",
+"founded":" 1986",
+"city":"San Jose",
+"state":"Louisiana",
+"country":"Samoa",
+"no_of_students":"5487",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"Texas A&M University",
+"founded":" 2000",
+"city":"Charlotte",
+"state":"Minnesota",
+"country":"Tajikistan",
+"no_of_students":"9982",
+"courses":"Basic Math"
+},
+{ 
+"name":"University of Illinois, Chicago (UIC)",
+"founded":" 1963",
+"city":"New York",
+"state":"Texas",
+"country":"Turkey",
+"no_of_students":"7552",
+"courses":"Speech"
+},
+{ 
+"name":"University of Pittsburgh",
+"founded":" 1987",
+"city":"Hollywood",
+"state":"California",
+"country":"Chad",
+"no_of_students":"6975",
+"courses":"Latin"
+},
+{ 
+"name":"Rice University",
+"founded":" 1929",
+"city":"Lakewood",
+"state":"New York",
+"country":"Côte d’Ivoire",
+"no_of_students":"5693",
+"courses":"Handwriting"
+},
+{ 
+"name":"Duke University",
+"founded":" 1942",
+"city":"Garland",
+"state":"Iowa",
+"country":"Saint Vincent and the Grenadines",
+"no_of_students":"9270",
+"courses":"Instrumental Music"
+},
+{ 
+"name":"Case Western Reserve University",
+"founded":" 1944",
+"city":"Lyon",
+"state":"Hawaii",
+"country":"Iraq",
+"no_of_students":"8055",
+"courses":"Health"
+},
+{ 
+"name":"University of North Carolina, Chapel Hill",
+"founded":" 1971",
+"city":"Moreno Valley",
+"state":"New Jersey",
+"country":"Tunisia",
+"no_of_students":"5998",
+"courses":"Language Arts"
+},
+{ 
+"name":"Colorado State University",
+"founded":" 2001",
+"city":"Hollywood",
+"state":"Arizona",
+"country":"Taiwan",
+"no_of_students":"4055",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"University of Connecticut",
+"founded":" 2006",
+"city":"Cincinnati",
+"state":"Alabama",
+"country":"Saint Kitts and Nevis",
+"no_of_students":"8690",
+"courses":"Basic Math"
+},
+{ 
+"name":"Washington State University",
+"founded":" 1940",
+"city":"Lyon",
+"state":"Washington",
+"country":"Vanuatu",
+"no_of_students":"5106",
+"courses":"Grammar"
+},
+{ 
+"name":"University of South Florida",
+"founded":" 1987",
+"city":"Otawa",
+"state":"North Carolina",
+"country":"Jordan",
+"no_of_students":"7239",
+"courses":"Sociology"
+},
+{ 
+"name":"Princeton University",
+"founded":" 1962",
+"city":"Colorado Springs",
+"state":"Nevada",
+"country":"Korea, North",
+"no_of_students":"8268",
+"courses":"Trigonometry"
+},
+{ 
+"name":"Iowa State University",
+"founded":" 1962",
+"city":"Kansas City",
+"state":"Louisiana",
+"country":"Brunei",
+"no_of_students":"6027",
+"courses":"Modern Literature"
+},
+{ 
+"name":"University of Delaware",
+"founded":" 1990",
+"city":"Amarillo",
+"state":"Kansas",
+"country":"Belize",
+"no_of_students":"5809",
+"courses":"Trigonometry"
+},
+{ 
+"name":"University of Washington",
+"founded":"  1944",
+"city":"Chicago",
+"state":"Hawaii",
+"country":"Cambodia",
+"no_of_students":"7672",
+"courses":"Physical Education"
+},
+{ 
+"name":"Wayne State University",
+"founded":"  2000",
+"city":"Denver",
+"state":"Connecticut",
+"country":"Nepal",
+"no_of_students":"6041",
+"courses":"Sociology"
+},
+{ 
+"name":"New York University",
+"founded":" 1950",
+"city":"Venice",
+"state":"Kansas",
+"country":"Cuba",
+"no_of_students":"6865",
+"courses":"Modern Literature"
+},
+{ 
+"name":"Duke University",
+"founded":" 1953",
+"city":"Fremont",
+"state":"Mississippi",
+"country":"Central African Republic",
+"no_of_students":"6678",
+"courses":"Basic Math"
+},
+{ 
+"name":"Georgetown University",
+"founded":" 2000",
+"city":"Glendale",
+"state":"Oregon",
+"country":"Burkina Faso",
+"no_of_students":"5934",
+"courses":"Speech"
+},
+{ 
+"name":"University of Notre Dame",
+"founded":" 1955",
+"city":"Valetta",
+"state":"Ohio",
+"country":"Cabo Verde",
+"no_of_students":"4835",
+"courses":"Trigonometry"
+},
+{ 
+"name":"University of Vermont",
+"founded":" 1996",
+"city":"Prague",
+"state":"Nevada",
+"country":"Hungary",
+"no_of_students":"7979",
+"courses":"History"
+},
+{ 
+"name":"Arizona State University",
+"founded":" 1996",
+"city":"Norfolk",
+"state":"Arizona",
+"country":"Croatia",
+"no_of_students":"7387",
+"courses":"Trigonometry"
+},
+{ 
+"name":"New York University",
+"founded":" 1962",
+"city":"Boston",
+"state":"Wyoming",
+"country":"Mali",
+"no_of_students":"6062",
+"courses":"Ecology"
+},
+{ 
+"name":"Pennsylvania State University",
+"founded":" 1976",
+"city":"London",
+"state":"Georgia",
+"country":"China",
+"no_of_students":"4187",
+"courses":"Sociology"
+},
+{ 
+"name":"Indiana University Bloomington",
+"founded":" 1954",
+"city":"Milwaukee",
+"state":"Connecticut",
+"country":"Andorra",
+"no_of_students":"5108",
+"courses":"Grammar"
+},
+{ 
+"name":"University of Chicago",
+"founded":" 1970",
+"city":"Portland",
+"state":"California",
+"country":"Bangladesh",
+"no_of_students":"6606",
+"courses":"Speech"
+},
+{ 
+"name":"University of Pennsylvania",
+"founded":"  1925",
+"city":"Oakland",
+"state":"Alabama",
+"country":"Iran",
+"no_of_students":"9989",
+"courses":"French"
+},
+{ 
+"name":"Stony Brook University, State University of New York",
+"founded":" 1989",
+"city":"Rome",
+"state":"Vermont",
+"country":"Gabon",
+"no_of_students":"7079",
+"courses":"Leadership"
+},
+{ 
+"name":"University of Miami",
+"founded":" 2006",
+"city":"Salt Lake City",
+"state":"Connecticut",
+"country":"Spain",
+"no_of_students":"4593",
+"courses":"Sociology"
+},
+{ 
+"name":"The Ohio State University",
+"founded":" 2003",
+"city":"New York",
+"state":"Connecticut",
+"country":"Kiribati",
+"no_of_students":"6759",
+"courses":"Trigonometry"
+},
+{ 
+"name":"Wake Forest University",
+"founded":" 1965",
+"city":"Minneapolis",
+"state":"Kansas",
+"country":"Italy",
+"no_of_students":"8982",
+"courses":"Sociology"
+},
+{ 
+"name":"University of Maryland, Baltimore County",
+"founded":" 1963",
+"city":"Scottsdale",
+"state":"Maine",
+"country":"Greece",
+"no_of_students":"8835",
+"courses":"Economics"
+},
+{ 
+"name":"Pennsylvania State University",
+"founded":" 1954",
+"city":"Chicago",
+"state":"Texas",
+"country":"Somalia",
+"no_of_students":"8623",
+"courses":"Instrumental Music"
+},
+{ 
+"name":"University of California, Berkeley (UCB)",
+"founded":" 1967",
+"city":"Irving",
+"state":"Mississippi",
+"country":"Seychelles",
+"no_of_students":"5566",
+"courses":"Handwriting"
+},
+{ 
+"name":"Indiana University Bloomington",
+"founded":" 1989",
+"city":"Prague",
+"state":"Nevada",
+"country":"Burkina Faso",
+"no_of_students":"9543",
+"courses":"Handwriting"
+},
+{ 
+"name":"Duke University",
+"founded":" 1947",
+"city":"Santa Ana",
+"state":"Arkansas",
+"country":"Liechtenstein",
+"no_of_students":"5945",
+"courses":"Resource Program"
+},
+{ 
+"name":"Duke University",
+"founded":" 1941",
+"city":"El Paso",
+"state":"Arizona",
+"country":"Central African Republic",
+"no_of_students":"6406",
+"courses":"Instrumental Music"
+},
+{ 
+"name":"Northeastern University",
+"founded":" 1943",
+"city":"Lakewood",
+"state":"Kentucky",
+"country":"Netherlands",
+"no_of_students":"4037",
+"courses":"Dramatics"
+},
+{ 
+"name":"University of Pennsylvania",
+"founded":" 1925",
+"city":"Boston",
+"state":"New Mexico",
+"country":"San Marino",
+"no_of_students":"9808",
+"courses":"American Literature"
+},
+{ 
+"name":"University of Illinois at Urbana-Champaign",
+"founded":"  1960",
+"city":"Oakland",
+"state":"Pennsylvania",
+"country":"Panama",
+"no_of_students":"5208",
+"courses":"Spanish"
+},
+{ 
+"name":"Howard University",
+"founded":" 1985",
+"city":"San Francisco",
+"state":"Louisiana",
+"country":"Romania",
+"no_of_students":"6479",
+"courses":"Modern Literature"
+},
+{ 
+"name":"Purdue University",
+"founded":" 1969",
+"city":"Worcester",
+"state":"California",
+"country":"Zambia",
+"no_of_students":"8987",
+"courses":"Ecology"
+},
+{ 
+"name":"California Institute of Technology (Caltech)",
+"founded":" 1926",
+"city":"Long Beach",
+"state":"New York",
+"country":"Malawi",
+"no_of_students":"6090",
+"courses":"LOGIC"
+},
+{ 
+"name":"Northwestern University",
+"founded":" 1931",
+"city":"Portland",
+"state":"South Carolina",
+"country":"Indonesia",
+"no_of_students":"6935",
+"courses":"Resource Program"
+},
+{ 
+"name":"University of Maryland, Baltimore County",
+"founded":" 1935",
+"city":"Lisbon",
+"state":"North Dakota",
+"country":"Nicaragua",
+"no_of_students":"5018",
+"courses":"LOGIC"
+},
+{ 
+"name":"University of California, Irvine",
+"founded":" 1975",
+"city":"Indianapolis",
+"state":"Idaho",
+"country":"The Gambia",
+"no_of_students":"9411",
+"courses":"Design and technology"
+},
+{ 
+"name":"University of Kansas",
+"founded":" 1984",
+"city":"Norfolk",
+"state":"Washington",
+"country":"Congo",
+"no_of_students":"7836",
+"courses":"Physical Education"
+},
+{ 
+"name":"University of Kansas",
+"founded":" 1942",
+"city":"Escondido",
+"state":"Utah",
+"country":"Congo",
+"no_of_students":"5145",
+"courses":"Sociology"
+},
+{ 
+"name":"Georgetown University",
+"founded":" 1964",
+"city":"Berlin",
+"state":"Maine",
+"country":"Panama",
+"no_of_students":"7739",
+"courses":"Health"
+},
+{ 
+"name":"Georgetown University",
+"founded":" 1977",
+"city":"Phoenix",
+"state":"Kansas",
+"country":"Honduras",
+"no_of_students":"6360",
+"courses":"Leadership"
+},
+{ 
+"name":"Texas A&M University",
+"founded":" 1989",
+"city":"Washington",
+"state":"Vermont",
+"country":"Libya",
+"no_of_students":"7708",
+"courses":"Sociology"
+},
+{ 
+"name":"University of Pittsburgh",
+"founded":" 1947",
+"city":"London",
+"state":"Nebraska",
+"country":"Taiwan",
+"no_of_students":"5448",
+"courses":"Trigonometry"
+},
+{ 
+"name":"University of Texas Dallas",
+"founded":" 1974",
+"city":"Boston",
+"state":"Kansas",
+"country":"France",
+"no_of_students":"4054",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"University of Southern California",
+"founded":" 2002",
+"city":"Madison",
+"state":"Minnesota",
+"country":"Botswana",
+"no_of_students":"7019",
+"courses":"Art"
+},
+{ 
+"name":"University of California, Berkeley (UCB)",
+"founded":" 1965",
+"city":"Las Vegas",
+"state":"Louisiana",
+"country":"Lesotho",
+"no_of_students":"9346",
+"courses":"Dramatics"
+},
+{ 
+"name":"University of Iowa",
+"founded":" 1984",
+"city":"Laredo",
+"state":"Minnesota",
+"country":"Serbia",
+"no_of_students":"7442",
+"courses":"Grammar"
+},
+{ 
+"name":"University of Chicago",
+"founded":" 1985",
+"city":"Tallahassee",
+"state":"Vermont",
+"country":"Brazil",
+"no_of_students":"5783",
+"courses":"Sociology"
+},
+{ 
+"name":"Tufts University",
+"founded":"  1980",
+"city":"Bellevue",
+"state":"West Virginia",
+"country":"Oman",
+"no_of_students":"7049",
+"courses":"Sociology"
+},
+{ 
+"name":"University of California, Riverside",
+"founded":" 1995",
+"city":"Zurich",
+"state":"Nevada",
+"country":"Algeria",
+"no_of_students":"7974",
+"courses":"Science"
+},
+{ 
+"name":"Arizona State University",
+"founded":" 1984",
+"city":"Moreno Valley",
+"state":"South Carolina",
+"country":"Samoa",
+"no_of_students":"5981",
+"courses":"Sociology"
+},
+{ 
+"name":"Washington University in St. Louis",
+"founded":" 1924",
+"city":"Bellevue",
+"state":"Louisiana",
+"country":"Peru",
+"no_of_students":"8027",
+"courses":"History"
+},
+{ 
+"name":"Washington University in St. Louis",
+"founded":"  2000",
+"city":"Memphis",
+"state":"Ohio",
+"country":"Liberia",
+"no_of_students":"7936",
+"courses":"Language Arts"
+},
+{ 
+"name":"University of Wisconsin-Madison",
+"founded":" 1949",
+"city":"Oklahoma City",
+"state":"Arkansas",
+"country":"Italy",
+"no_of_students":"6258",
+"courses":"English IV"
+},
+{ 
+"name":"Stanford University",
+"founded":" 1992",
+"city":"Valetta",
+"state":"Alaska",
+"country":"Djibouti",
+"no_of_students":"4319",
+"courses":"Mathematics"
+},
+{ 
+"name":"University at Buffalo SUNY",
+"founded":" 1935",
+"city":"Valetta",
+"state":"Alaska",
+"country":"Saint Kitts and Nevis",
+"no_of_students":"6292",
+"courses":"Trigonometry"
+},
+{ 
+"name":"University of North Carolina, Chapel Hill",
+"founded":" 1950",
+"city":"Innsbruck",
+"state":"Nevada",
+"country":"Lithuania",
+"no_of_students":"8961",
+"courses":"LOGIC"
+},
+{ 
+"name":"The New School",
+"founded":" 1969",
+"city":"Cincinnati",
+"state":"Connecticut",
+"country":"Madagascar",
+"no_of_students":"8345",
+"courses":"Design and technology"
+},
+{ 
+"name":"University of Maryland, Baltimore County",
+"founded":"  1998",
+"city":"Boston",
+"state":"Oklahoma",
+"country":"Burkina Faso",
+"no_of_students":"6246",
+"courses":"Economics"
+},
+{ 
+"name":"Emory University",
+"founded":" 1997",
+"city":"Fort Lauderdale",
+"state":"South Carolina",
+"country":"Korea, North",
+"no_of_students":"6968",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"University of Colorado, Denver",
+"founded":" 1996",
+"city":"Lyon",
+"state":"Kentucky",
+"country":"Turkmenistan",
+"no_of_students":"7483",
+"courses":"Latin"
+},
+{ 
+"name":"The Katz School at Yeshiva University",
+"founded":" 1947",
+"city":"El Paso",
+"state":"North Carolina",
+"country":"Ethiopia",
+"no_of_students":"6365",
+"courses":"Trigonometry"
+},
+{ 
+"name":"Rensselaer Polytechnic University",
+"founded":" 1939",
+"city":"Laredo",
+"state":"South Carolina",
+"country":"Cameroon",
+"no_of_students":"8412",
+"courses":"Health"
+},
+{ 
+"name":"North Carolina State University",
+"founded":" 1983",
+"city":"New Orleans",
+"state":"Colorado",
+"country":"Iceland",
+"no_of_students":"9674",
+"courses":"German"
+},
+{ 
+"name":"Massachusets Institute of Technology",
+"founded":" 1988",
+"city":"Seattle",
+"state":"Vermont",
+"country":"Croatia",
+"no_of_students":"7300",
+"courses":"Health"
+},
+{ 
+"name":"University of Rochester",
+"founded":" 1992",
+"city":"St. Louis",
+"state":"Arizona",
+"country":"United Arab Emirates",
+"no_of_students":"4071",
+"courses":"American Literature"
+},
+{ 
+"name":"University of California, Los Angeles (UCLA)",
+"founded":" 1931",
+"city":"Sacramento",
+"state":"Washington",
+"country":"Cabo Verde",
+"no_of_students":"4059",
+"courses":"Health"
+},
+{ 
+"name":"Vanderbilt University",
+"founded":" 1994",
+"city":"Omaha",
+"state":"North Dakota",
+"country":"Guinea",
+"no_of_students":"5743",
+"courses":"Resource Program"
+},
+{ 
+"name":"Northeastern University",
+"founded":" 1949",
+"city":"Paris",
+"state":"Mississippi",
+"country":"Chile",
+"no_of_students":"5438",
+"courses":"American Literature"
+},
+{ 
+"name":"George Washington University",
+"founded":" 1987",
+"city":"London",
+"state":"Vermont",
+"country":"Colombia",
+"no_of_students":"6830",
+"courses":"Physical Education"
+},
+{ 
+"name":"University of Rochester",
+"founded":" 1943",
+"city":"Garland",
+"state":"Nevada",
+"country":"Sudan, South",
+"no_of_students":"8414",
+"courses":"Ecology"
+},
+{ 
+"name":"Tufts University",
+"founded":" 1931",
+"city":"Bucharest",
+"state":"North Carolina",
+"country":"Germany",
+"no_of_students":"6261",
+"courses":"Language Arts"
+},
+{ 
+"name":"University of Iowa",
+"founded":" 1926",
+"city":"Madison",
+"state":"Texas",
+"country":"Singapore",
+"no_of_students":"6168",
+"courses":"Grammar"
+},
+{ 
+"name":"Wake Forest University",
+"founded":" 1992",
+"city":"New Orleans",
+"state":"Nevada",
+"country":"Oman",
+"no_of_students":"7481",
+"courses":"Science"
+},
+{ 
+"name":"Georgetown University",
+"founded":" 1933",
+"city":"Bellevue",
+"state":"Wyoming",
+"country":"Indonesia",
+"no_of_students":"6564",
+"courses":"LOGIC"
+},
+{ 
+"name":"Dartmouth College",
+"founded":" 1929",
+"city":"Salt Lake City",
+"state":"Maine",
+"country":"Cyprus",
+"no_of_students":"6779",
+"courses":"Art"
+},
+{ 
+"name":"Washington University in St. Louis",
+"founded":" 1990",
+"city":"Louisville",
+"state":"Illinois",
+"country":"Mexico",
+"no_of_students":"7007",
+"courses":"Resource Program"
+}
+]}

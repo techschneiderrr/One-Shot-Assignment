@@ -10,10 +10,9 @@ const collegeSchema = new Schema({
         minlength: 3
     },
     founded: {
-        type: Number,
+        type: String,
         required: true,
         trim: true,
-        minlength: 4
     },
     city: {
         type: String,
