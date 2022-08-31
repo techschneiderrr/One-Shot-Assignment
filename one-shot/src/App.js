@@ -6,7 +6,7 @@ import Navbar from "./components/navbar.component"
 // import Dashboard from "./components/dashboard.component";
 import CollegeList from "./components/colleges-list.component";
 import StudentList from "./components/students-list.component";
-// import CreateCollege from "./components/create-college.component";
+import StudentDetails from "./components/student-details.component";
 // import CreateStudent from "./components/create-student.component";
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
       {/* <Route path="/" exact component={Dashboard} /> */}
       <Route path="/colleges" element={<CollegeList />} />
       <Route path="/students" element={<StudentList />} />
-      {/* <Route path="/colleges/create" component={CreateCollege} /> */}
+      <Route path="/students/:id" element={<StudentDetails />} />
       {/* <Route path="/colleges/students" component={CreateStudent} /> */}
       </Routes>
     </BrowserRouter>

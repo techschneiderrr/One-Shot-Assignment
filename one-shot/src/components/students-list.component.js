@@ -7,10 +7,8 @@ import Table from 'react-bootstrap/Table';
 const Student = props => (
   
   <tr>
-    <td>
-      <Link to={`/students?college=${props.college.name}`} style={{ textDecoration: 'none', color:'white'}}>
-        {props.student.name}
-      </Link>
+    <td><Link to={`/students?id=${props.student._id}`} style={{ textDecoration: 'none', color:'white'}}>
+    {props.student.name}</Link>
     </td>
     
     <td >{props.student.batch_year}</td>
