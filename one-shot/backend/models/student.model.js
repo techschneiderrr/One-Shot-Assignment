@@ -26,7 +26,12 @@ const studentSchema = new Schema(
   skills: {
     type: String,
     required: true
+  },
+  college: {
+    type: String,
+    required: true
   }
+
 }, 
 {
   timestamps: true,

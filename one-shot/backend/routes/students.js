@@ -12,12 +12,14 @@ router.route('/add').post((req, res) => {
   const batch_year = Number(req.body.batch_year);
   const college_id = req.body.college_id;
   const skills = req.body.skills;
+  const college = req.body.college;
 
   const newStudent = new Student({
     name,
     batch_year,
     college_id,
     skills,
+    college
   });
 
   newStudent.save()
@@ -44,6 +46,7 @@ router.route('/update/:id').post((req, res) => {
       student.batch_year = Number(req.body.batch_year);
       student.college_id = req.body.college_id;
       student.skills = req.body.skills;
+      student.college = req.body.college;
 
       student.save()
         .then(() => res.json('Student updated!'))
