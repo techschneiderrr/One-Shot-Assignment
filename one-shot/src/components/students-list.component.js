@@ -7,7 +7,12 @@ import Table from 'react-bootstrap/Table';
 const Student = props => (
   
   <tr>
-    <td >{props.student.name}</td>
+    <td>
+      <Link to={`/students?college=${props.college.name}`} style={{ textDecoration: 'none', color:'white'}}>
+        {props.student.name}
+      </Link>
+    </td>
+    
     <td >{props.student.batch_year}</td>
     <td >{props.student.college_id}</td>
     <td >{props.student.skills}</td>
@@ -20,13 +25,13 @@ export default class StudentList extends Component {
     super(props);
     //this.deleteStudent = this.deleteStudent.bind(this);
     this.state = {students: []};
+    this.viewStudents = [];
   }
 
   componentDidMount() {
     axios.get('http://localhost:5000/students/')
       .then(response => {
         this.setState({ students: response.data });
-        //Just a song this think youconsole.warn(this.state.students, this.state.students.filter(student => student.college === "VITX"));
       })
       .catch((error) => {
         console.log(error);
@@ -42,31 +47,34 @@ export default class StudentList extends Component {
     })
   }
 
-  studentList() {
+  students() {
     const urlParams = new URLSearchParams(window.location.search);
-    return this.state.students.filter(student => student.college === urlParams.get("college")).map(currentstudent => {
+    this.viewStudents = this.state.students.filter(student => student.college === urlParams.get("college")).map(currentstudent => {
       return <Student student={currentstudent} deleteStudent={this.deleteStudent} key={currentstudent._id}/>;
     });
+    return this.viewStudents;
   }
 
+  
   render() {
     return (
       <div className='container'>
         <h3>Students</h3>
-        <Table responsive striped bordered hover variant="dark" className="table">
-          <thead className="thead-dark">
-            <tr>
-              <th>Name</th>
-              <th >Batch Year</th>
-              <th >College ID</th>
-              <th >Skills</th>
-              <th>College</th>
-            </tr>
-          </thead>
-          <tbody>
-            { this.studentList() }
-          </tbody>
-        </Table>
+        {this.viewStudents.length === 0 ? "No students found" : ""}
+          <Table responsive striped bordered hover variant="dark" className="table">
+            <thead className="thead-dark">
+              <tr>
+                <th>Name</th>
+                <th >Batch Year</th>
+                <th >College ID</th>
+                <th >Skills</th>
+                <th>College</th>
+              </tr>
+            </thead>
+            <tbody>
+              { this.students() }
+            </tbody>
+          </Table>
       </div>
     )
   }
