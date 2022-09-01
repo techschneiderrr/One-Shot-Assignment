@@ -48,6 +48,12 @@ Start the server
 **Server:** Node, Express, Mongoose
 
 **Database:** MongoDB
+
+
+## Video demo
+
+https://user-images.githubusercontent.com/56251839/187831806-2707fadb-baf0-41cb-a108-7232430fb887.mp4
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/techschneiderrr/One-Shot-Assignment/blob/main/one-shot/repository%20assets/img/dash.png)
@@ -59,6 +65,8 @@ Start the server
 ![App Screenshot](https://github.com/techschneiderrr/One-Shot-Assignment/blob/main/one-shot/repository%20assets/img/details.png)
 
 ## 🚀 About Me
+
+
 I'm a full stack developer. 
 Moreover, I love to design user-interfaces and chrome extensions.
 I have made several UI projects in iOS development and also have keen interested in kali security tools and sevices.
