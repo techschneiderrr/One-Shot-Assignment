@@ -9,7 +9,7 @@ This is a project done under the recruitment assesment activity for Oneshot.ai.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/techschneiderrr/One-Shot-Assignment.git
 ```
 To deploy this project, open 2 terminal windows
 
