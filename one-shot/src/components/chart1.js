@@ -8,7 +8,7 @@ ChartJS.register(ArcElement, Tooltip, Legend);
 
 function Chart1() {
     const data = {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        labels: ['India', 'Bangladesh', 'Swaziland', 'Brunei', 'Kenya', 'Sweden'],
         datasets: [
           {
             label: '# of Votes',
@@ -35,8 +35,11 @@ function Chart1() {
       };
   return (
   <>
-    <div style={{width:"400px",margin:"auto auto"}}>
+    <div style={{width:"350px",margin:"auto auto"}}>
+        
         <Doughnut data={data} />
+        <br/>
+        <center><h6>Number of students per country</h6></center>
     </div>
   </>);
 }

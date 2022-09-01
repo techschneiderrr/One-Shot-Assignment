@@ -22,11 +22,11 @@ ChartJS.register(
 
 function Chart2() {
     const data = {
-        labels: ['Thing 1', 'Thing 2', 'Thing 3', 'Thing 4', 'Thing 5', 'Thing 6', 'dsa'],
+        labels: ['India', 'Bangladesh', 'Swaziland', ' Brunei', 'Pakistan', 'Sweden'],
         datasets: [
           {
-            label: '# of Votes',
-            data: [2, 9, 3, 5, 2, 3],
+            label: 'number of Colleges',
+            data: [8, 9, 5, 7, 4, 7],
             backgroundColor: 'rgba(255, 99, 132, 0.2)',
             borderColor: 'rgba(255, 99, 132, 1)',
             borderWidth: 1,
@@ -36,8 +36,10 @@ function Chart2() {
       
   return(
     <>
-    <div style={{width:"400px",margin:"auto auto"}}>
+    <div style={{width:"350px",margin:"auto auto"}}>
         <Radar data={data} />
+        <br/>
+        <center><h6>Number of colleges per country</h6></center>
     </div>
   </>
   );

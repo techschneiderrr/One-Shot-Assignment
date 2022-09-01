@@ -8,7 +8,7 @@ ChartJS.register(ArcElement, Tooltip, Legend);
 
 function Chart3() {
     const data = {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        labels: ['Mathematics', 'LOGIC', 'Accounting', 'German', 'History', 'Instrumental Music'],
         datasets: [
           {
             label: '# of Votes',
@@ -35,8 +35,10 @@ function Chart3() {
       };
       return(
         <>
-        <div style={{width:"400px",margin:"auto auto"}}>
+        <div style={{width:"350px",margin:"auto auto"}}>
             <Pie data={data} />
+            <br/>
+            <center><h6>Number of courses offered</h6></center>
         </div>
       </>
       );    
