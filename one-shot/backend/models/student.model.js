@@ -20,8 +20,15 @@ const studentSchema = new Schema(
   college_id: {
     type: String,
     required: true,
-    trim: true,
-    minlength: 9
+    trim: true
+  },
+  gender: {
+    type: String,
+    required: true
+  },
+  phone: {
+    type: String,
+    required: true
   },
   skills: {
     type: String,

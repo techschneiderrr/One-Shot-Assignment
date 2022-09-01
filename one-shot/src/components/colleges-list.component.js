@@ -15,9 +15,7 @@ const College = props => (
     <td>{props.college.country}</td>
     <td>{props.college.no_of_students}</td>
     <td>{props.college.courses}</td>
-    <td>
-      <Link style={{ textDecoration: 'none' }} to={"/edit/"+props.college._id}><span style={{color: 'yellow'}}>edit</span></Link> | <a href="#" style={{ textDecoration: 'none', color:'red' }} onClick={() => { props.deleteCollege(props.college._id) }}>delete</a>
-    </td>
+   
   </tr>
 )
 
@@ -67,7 +65,6 @@ export default class CollegeList extends Component {
               <th>Country</th>
               <th>Number of students</th>
               <th>Course</th>
-              <th>Modify</th>
             </tr>
           </thead>
           <tbody>

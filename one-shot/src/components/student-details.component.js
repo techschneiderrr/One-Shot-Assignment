@@ -8,6 +8,8 @@ const Student = props => (
     <td>{props.name}</td>
     <td >{props.batch_year}</td>
     <td >{props.college_id}</td>
+    <td >{props.gender}</td>
+    <td >{props.phone}</td>
     <td >{props.skills}</td>
     <td >{props.college}</td>
   </tr>
@@ -36,6 +38,8 @@ const StudentDetails = () => {
                   <th>Name</th>
                   <th >Batch Year</th>
                   <th >College ID</th>
+                  <th >Gender</th>
+                  <th>Phone</th>
                   <th >Skills</th>
                   <th>College</th>
                 </tr>
