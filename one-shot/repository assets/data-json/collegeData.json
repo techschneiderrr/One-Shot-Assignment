@@ -1,39 +1,311 @@
 { 
 "objects":[ 
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+{ 
+"name":"Oregon State University",
+"founded":"  1935",
+"city":"Jersey City",
+"state":"Alaska",
+"country":"Bangladesh",
+"no_of_students":"6435",
+"courses":"Mathematics"
+},
+{ 
+"name":"Wake Forest University",
+"founded":" 1981",
+"city":"Lyon",
+"state":"Virginia",
+"country":"Swaziland",
+"no_of_students":"4717",
+"courses":"LOGIC"
+},
+{ 
+"name":"Northwestern University",
+"founded":" 1934",
+"city":"San Francisco",
+"state":"Kansas",
+"country":"Brunei",
+"no_of_students":"9354",
+"courses":"Accounting"
+},
+{ 
+"name":"Boston College",
+"founded":" 1972",
+"city":"Indianapolis",
+"state":"Missouri",
+"country":"Kenya",
+"no_of_students":"4302",
+"courses":"German"
+},
+{ 
+"name":"The University of Arizona",
+"founded":" 1941",
+"city":"Arlington",
+"state":"Rhode Island",
+"country":"Kiribati",
+"no_of_students":"6068",
+"courses":"History"
+},
+{ 
+"name":"The Katz School at Yeshiva University",
+"founded":"  1934",
+"city":"Zurich",
+"state":"Michigan",
+"country":"Sweden",
+"no_of_students":"4763",
+"courses":"Accounting"
+},
+{ 
+"name":"The New School",
+"founded":" 1938",
+"city":"Worcester",
+"state":"Oregon",
+"country":"Macedonia",
+"no_of_students":"6311",
+"courses":"Instrumental Music"
+},
+{ 
+"name":"New York University",
+"founded":" 1959",
+"city":"Washington",
+"state":"Montana",
+"country":"Uruguay",
+"no_of_students":"9388",
+"courses":"Design and technology"
+},
+{ 
+"name":"Rensselaer Polytechnic University",
+"founded":" 1948",
+"city":"Wien",
+"state":"Maryland",
+"country":"Mexico",
+"no_of_students":"9172",
+"courses":"Physical Education"
+},
+{ 
+"name":"Clark University",
+"founded":" 1938",
+"city":"Phoenix",
+"state":"Michigan",
+"country":"Uganda",
+"no_of_students":"8742",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"The Ohio State University",
+"founded":" 2002",
+"city":"Venice",
+"state":"Arizona",
+"country":"Grenada",
+"no_of_students":"9379",
+"courses":"Economics"
+},
+{ 
+"name":"University of Delaware",
+"founded":" 2002",
+"city":"Jacksonville",
+"state":"Alaska",
+"country":"The Gambia",
+"no_of_students":"6137",
+"courses":"American Literature"
+},
+{ 
+"name":"Rutgers University - New Brunswick",
+"founded":" 1950",
+"city":"Cincinnati",
+"state":"Kentucky",
+"country":"Comoros",
+"no_of_students":"9156",
+"courses":"English IV"
+},
+{ 
+"name":"Texas A&M University",
+"founded":" 1986",
+"city":"San Jose",
+"state":"Louisiana",
+"country":"Samoa",
+"no_of_students":"5487",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"Texas A&M University",
+"founded":" 2000",
+"city":"Charlotte",
+"state":"Minnesota",
+"country":"Tajikistan",
+"no_of_students":"9982",
+"courses":"Basic Math"
+},
+{ 
+"name":"University of Illinois, Chicago (UIC)",
+"founded":" 1963",
+"city":"New York",
+"state":"Texas",
+"country":"Turkey",
+"no_of_students":"7552",
+"courses":"Speech"
+},
+{ 
+"name":"University of Pittsburgh",
+"founded":" 1987",
+"city":"Hollywood",
+"state":"California",
+"country":"Chad",
+"no_of_students":"6975",
+"courses":"Latin"
+},
+{ 
+"name":"Rice University",
+"founded":" 1929",
+"city":"Lakewood",
+"state":"New York",
+"country":"Côte d’Ivoire",
+"no_of_students":"5693",
+"courses":"Handwriting"
+},
+{ 
+"name":"Duke University",
+"founded":" 1942",
+"city":"Garland",
+"state":"Iowa",
+"country":"Saint Vincent and the Grenadines",
+"no_of_students":"9270",
+"courses":"Instrumental Music"
+},
+{ 
+"name":"Case Western Reserve University",
+"founded":" 1944",
+"city":"Lyon",
+"state":"Hawaii",
+"country":"Iraq",
+"no_of_students":"8055",
+"courses":"Health"
+},
+{ 
+"name":"University of North Carolina, Chapel Hill",
+"founded":" 1971",
+"city":"Moreno Valley",
+"state":"New Jersey",
+"country":"Tunisia",
+"no_of_students":"5998",
+"courses":"Language Arts"
+},
+{ 
+"name":"Colorado State University",
+"founded":" 2001",
+"city":"Hollywood",
+"state":"Arizona",
+"country":"Taiwan",
+"no_of_students":"4055",
+"courses":"Ancient Civilizations"
+},
+{ 
+"name":"University of Connecticut",
+"founded":" 2006",
+"city":"Cincinnati",
+"state":"Alabama",
+"country":"Saint Kitts and Nevis",
+"no_of_students":"8690",
+"courses":"Basic Math"
+},
+{ 
+"name":"Washington State University",
+"founded":" 1940",
+"city":"Lyon",
+"state":"Washington",
+"country":"Vanuatu",
+"no_of_students":"5106",
+"courses":"Grammar"
+},
+{ 
+"name":"University of South Florida",
+"founded":" 1987",
+"city":"Otawa",
+"state":"North Carolina",
+"country":"Jordan",
+"no_of_students":"7239",
+"courses":"Sociology"
+},
+{ 
+"name":"Princeton University",
+"founded":" 1962",
+"city":"Colorado Springs",
+"state":"Nevada",
+"country":"Korea, North",
+"no_of_students":"8268",
+"courses":"Trigonometry"
+},
+{ 
+"name":"Iowa State University",
+"founded":" 1962",
+"city":"Kansas City",
+"state":"Louisiana",
+"country":"Brunei",
+"no_of_students":"6027",
+"courses":"Modern Literature"
+},
+{ 
+"name":"University of Delaware",
+"founded":" 1990",
+"city":"Amarillo",
+"state":"Kansas",
+"country":"Belize",
+"no_of_students":"5809",
+"courses":"Trigonometry"
+},
+{ 
+"name":"University of Washington",
+"founded":"  1944",
+"city":"Chicago",
+"state":"Hawaii",
+"country":"Cambodia",
+"no_of_students":"7672",
+"courses":"Physical Education"
+},
+{ 
+"name":"Wayne State University",
+"founded":"  2000",
+"city":"Denver",
+"state":"Connecticut",
+"country":"Nepal",
+"no_of_students":"6041",
+"courses":"Sociology"
+},
+{ 
+"name":"New York University",
+"founded":" 1950",
+"city":"Venice",
+"state":"Kansas",
+"country":"Cuba",
+"no_of_students":"6865",
+"courses":"Modern Literature"
+},
+{ 
+"name":"Duke University",
+"founded":" 1953",
+"city":"Fremont",
+"state":"Mississippi",
+"country":"Central African Republic",
+"no_of_students":"6678",
+"courses":"Basic Math"
+},
+{ 
+"name":"Georgetown University",
+"founded":" 2000",
+"city":"Glendale",
+"state":"Oregon",
+"country":"Burkina Faso",
+"no_of_students":"5934",
+"courses":"Speech"
+},
+{ 
+"name":"University of Notre Dame",
+"founded":" 1955",
+"city":"Valetta",
+"state":"Ohio",
+"country":"Cabo Verde",
+"no_of_students":"4835",
+"courses":"Trigonometry"
+},
 { 
 "name":"University of Vermont",
 "founded":" 1996",
